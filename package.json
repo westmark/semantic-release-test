@@ -1,0 +1,27 @@
+{
+  "name": "semantic-release-test",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/westmark/semantic-release-test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^3.20.2",
+    "semantic-release": "17.0.1",
+    "semantic-release-commit-filter": "1.0.2"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "installConfig": {
+    "pnp": false
+  }
+}
