@@ -3,5 +3,4 @@ module.exports = {
   release: {
     branches: ["master"]
   },
-  dryRun: true
 };
