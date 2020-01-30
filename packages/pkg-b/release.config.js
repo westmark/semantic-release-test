@@ -1,3 +1,1 @@
-module.exports = {
-  extends: ["semantic-release-commit-filter"]
-};
+module.exports = require('../../release.config');
