@@ -11,8 +11,7 @@
     "url": "git@github.com:westmark/semantic-release-test.git"
   },
   "devDependencies": {
-    "semantic-release": "17.0.1",
-    "semantic-release-commit-filter": "1.0.2"
+    "semantic-release": "17.0.1"
   },
   "author": "",
   "license": "ISC"
