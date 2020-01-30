@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/westmark/semantic-release-test.git"
+    "url": "git@github.com:westmark/semantic-release-test.git"
   },
   "author": "",
   "license": "ISC",
