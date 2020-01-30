@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/westmark/semantic-release-test/compare/@westmark/pkg-a-v1.0.3...@westmark/pkg-a-v1.0.4) (2020-01-30)
+
+
+### Bug Fixes
+
+* console.log again [#3](https://github.com/westmark/semantic-release-test/issues/3) ([35455a0](https://github.com/westmark/semantic-release-test/commit/35455a05cbafa0cb6abcc1d22feef444b224e01d))
+
 ## [1.0.3](https://github.com/westmark/semantic-release-test/compare/@westmark/pkg-a-v1.0.2...@westmark/pkg-a-v1.0.3) (2020-01-30)
 
 
