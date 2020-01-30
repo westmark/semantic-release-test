@@ -22,5 +22,6 @@ module.exports = {
   ],
   release: {
     branches: ["master"]
-  }
+  },
+  debug: true
 };
