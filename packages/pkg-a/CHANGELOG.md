@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/westmark/semantic-release-test/compare/@westmark/pkg-a-v1.0.5...@westmark/pkg-a-v1.0.6) (2020-01-31)
+
+
+### Bug Fixes
+
+* awesome imperative tense description ([8d5fb8a](https://github.com/westmark/semantic-release-test/commit/8d5fb8a4e932857abf033a53b405a8417d4cd0f5))
+
 ## [1.0.5](https://github.com/westmark/semantic-release-test/compare/@westmark/pkg-a-v1.0.4...@westmark/pkg-a-v1.0.5) (2020-01-30)
 
 
